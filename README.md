@@ -1,7 +1,7 @@
 # Hi All !
 
 >  💻 Developer
-[![GitHub: @NewTheBuilder](https://img.shields.io/github/followers/newthebuilder?label=follow&style=social)](https://github.com/newthebuilder)
+[![GitHub: @Dumont-Julien](https://img.shields.io/github/followers/newthebuilder?label=follow&style=social)](https://github.com/newthebuilder)
 [![l.dumontj357@gmail.com](https://img.shields.io/static/v1?label=dumontj357@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:dumontj357@gmail.com)
 
 I am an developer pocketmine
@@ -26,5 +26,5 @@ If you have any ideas, please send them to me!
 - **FrameWork**: SQL
 
 ---
-🔥 From [NewTheBuilder](https://github.com/NewTheBuilder)
-visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=NewTheBuilder)
+🔥 From [Dumont-Julien](https://github.com/Dumont-Julien)
+visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dumont-Julien)
