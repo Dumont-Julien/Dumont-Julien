@@ -21,9 +21,8 @@ If you have any ideas, please send them to me!
 ##  🎉 Skills
 
 - **FrontEnd**: PHP, HTML
-- **API**: Pocketmine, Discord
+- **API**: Pocketmine
 - **Languages**: PHP, HTML, CSS
-- **FrameWork**: SQL
 
 ---
 🔥 From [Dumont-Julien](https://github.com/Dumont-Julien)
