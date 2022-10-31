@@ -1,29 +1,21 @@
-# Hi All !
+<h1 align="center">Hi 👋, I'm Julien</h1>
+<h3 align="center">I'm a developer Pocketmine</h3>
 
->  💻 Developer
-[![GitHub: @Dumont-Julien](https://img.shields.io/github/followers/Dumont-Julien?label=follow&style=social)](https://github.com/Dumont-Julien)
-[![l.dumontj357@gmail.com](https://img.shields.io/static/v1?label=dumontj357@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:dumontj357@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=julien&label=Profile%20views&color=0e75b6&style=flat" alt="julien" /> </p>
 
-I am an developer pocketmine
+- 🔭 I’m currently working on **SkyBlock-Project**
 
-I like to learn new things.
+- 📫 How to reach me **dumontj357@gmail.com**
 
-If you have any ideas, please send them to me!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/julien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julien" height="30" width="40" /></a>
+<a href="https://instagram.com/dum.julien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dum.julien" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/julien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="julien" height="30" width="40" /></a>
+<a href="https://discord.gg/Julien#4388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Julien#4388" height="30" width="40" /></a>
+</p>
 
-## ⚡ Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-[![Julien GitHub stats](https://github-readme-stats.vercel.app/api?username=Dumont-Julien&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Dumont-Julien/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumont-Julien&hide=javascript,html)](https://github.com/Dumont-Julien/github-readme-stats)
-
-
-
-
-##  🎉 Skills
-
-- **FrontEnd**: PHP, HTML
-- **API**: Pocketmine
-- **Languages**: PHP, HTML, CSS
-
----
-🔥 From [Dumont-Julien](https://github.com/Dumont-Julien)
-visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dumont-Julien)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julien&show_icons=true&locale=en" alt="julien" /></p>
